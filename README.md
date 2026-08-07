@@ -20,9 +20,16 @@ for a full description of the method.
 
 ## Installation
 
-To install the package, by clone this repo, and run:
+To install the package, do:
 ```{R}
-devtools::install("/path/to/fishash")
+devtools::install_github("jackkamm/fishash")
+```
+
+Fishash will also become available in the next version of Bioconductor
+(3.24). After Bioconductor 3.24 is released (or if you are on the
+[devel](https://contributions.bioconductor.org/use-devel.html) version), you can install it with:
+```{R}
+BiocManager::install("fishash")
 ```
 
 ## Basic usage
