@@ -59,5 +59,5 @@ help(fishash)
 ## Vignette
 
 See the
-[vignette](https://jackkamm.github.io/fishash-vignette.html)
+[vignette](https://bioconductor.org/packages/devel/bioc/vignettes/fishash/inst/doc/fishash-vignette.html)
 for an example on how to use the package.
